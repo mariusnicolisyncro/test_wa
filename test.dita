@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_fwj_dx3_5wb">
+    <title>d'lpo;jksdl/lklfdfksdsd<image href="Map-212.ditamap" id="image_bfl_tt4_tzb"
+        />testte<?oxy_insert_start author="test" timestamp="20231220T115622+0200"?>xx<?oxy_insert_end?>stt<?oxy_insert_start author="test" timestamp="20231220T115629+0200"?>ddddd<?oxy_insert_end?>esttesttesttesttesttesttesttesttesttesttesttesttest</title>
+    <shortdesc>My short <b>description</b></shortdesc>
+    <body>
+        <?oxy_insert_start author="test" timestamp="20231227T103603+0200"?>
+        <simpletable relcolwidth="1* 1*" id="simpletable_jgj_xzd_xzb">
+            <sthead>
+                <stentry/>
+                <stentry/>
+            </sthead>
+            <strow>
+                <stentry/>
+                <stentry/>
+            </strow>
+            <strow>
+                <stentry/>
+                <stentry/>
+            </strow>
+            <strow>
+                <stentry/>
+                <stentry/>
+            </strow>
+        </simpletable>
+        <table frame="all" rowsep="1" colsep="1" id="table_lnv_wzd_xzb">
+            <title/>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_xwj_wzd_xzb">
+            <title/>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table id="table_gjr_pyd_xzb">
+            <title/>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table id="table_tw1_kyd_xzb">
+            <title/>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <simpletable relcolwidth="1* 1*" id="simpletable_wbr_jyd_xzb">
+            <sthead>
+                <stentry/>
+                <stentry/>
+            </sthead>
+            <strow>
+                <stentry/>
+                <stentry/>
+            </strow>
+            <strow>
+                <stentry/>
+                <stentry/>
+            </strow>
+            <strow>
+                <stentry/>
+                <stentry/>
+            </strow>
+        </simpletable>
+        <?oxy_insert_end?>
+        <table id="table_nrd_bmz_5zb">
+            <title/>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry>kjkhsd</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry><?oxy_insert_start author="test" timestamp="20231220T115623+0200"?>xx<?oxy_insert_end?></entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry><?oxy_delete author="test" timestamp="20231227T094053+0200" content=".,mn,n"?></entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <?oxy_insert_start author="test" timestamp="20231227T100131+0200"?>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_xzt_jrd_xzb">
+            <sthead>
+                <stentry/>
+                <stentry/>
+            </sthead>
+            <strow>
+                <stentry/>
+                <stentry/>
+            </strow>
+            <strow>
+                <stentry/>
+                <stentry/>
+            </strow>
+            <strow>
+                <stentry/>
+                <stentry/>
+            </strow>
+        </simpletable>
+        <simpletable id="simpletable_np5_vtd_xzb">
+            <sthead>
+                <stentry/>
+            </sthead>
+        </simpletable>
+        <?oxy_insert_end?>
+        <?oxy_delete author="test" timestamp="20231227T100131+0200" content="&lt;table rowsep=&quot;1&quot; colsep=&quot;1&quot; id=&quot;table_pwy_5kf_vzb&quot;&gt;&lt;title/&gt;&lt;tgroup cols=&quot;3&quot;&gt;&lt;colspec colname=&quot;c1&quot; colnum=&quot;1&quot; colwidth=&quot;1*&quot;/&gt;&lt;colspec colname=&quot;c2&quot; colnum=&quot;2&quot; colwidth=&quot;1*&quot;/&gt;&lt;colspec colname=&quot;c3&quot; colnum=&quot;3&quot; colwidth=&quot;1*&quot;/&gt;&lt;thead&gt;&lt;row&gt;&lt;entry/&gt;&lt;entry/&gt;&lt;entry/&gt;&lt;/row&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;row&gt;&lt;entry&gt;llk&lt;/entry&gt;&lt;entry/&gt;&lt;entry/&gt;&lt;/row&gt;&lt;row&gt;&lt;entry/&gt;&lt;entry/&gt;&lt;entry/&gt;&lt;/row&gt;&lt;row&gt;&lt;entry/&gt;&lt;entry/&gt;&lt;entry/&gt;&lt;/row&gt;&lt;/tbody&gt;&lt;/tgroup&gt;&lt;/table&gt;"?>
+    </body>
+</topic>
+<?oxy_options track_changes="on"?>
