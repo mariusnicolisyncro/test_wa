@@ -5,6 +5,9 @@
         />testte<?oxy_insert_start author="test" timestamp="20231220T115622+0200"?>xx<?oxy_insert_end?>stt<?oxy_insert_start author="test" timestamp="20231220T115629+0200"?>ddddd<?oxy_insert_end?>esttesttesttesttesttesttesttesttesttesttesttesttest</title>
     <shortdesc>My short <b>description</b></shortdesc>
     <body>
+        <?oxy_insert_start author="mariusnicolisyncro" timestamp="20240417T121015+0300"?>
+        <p>Salut</p>
+        <?oxy_insert_end?>
         <?oxy_insert_start author="test" timestamp="20231227T103603+0200"?>
         <simpletable relcolwidth="1* 1*" id="simpletable_jgj_xzd_xzb">
             <sthead>
