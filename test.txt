@@ -1,0 +1,2 @@
+Acesta este un fisier text scris pe două rânduri.
+Acesta este al doilea rând.
