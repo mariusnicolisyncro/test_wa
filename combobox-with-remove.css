@@ -1,0 +1,10 @@
+comboBox {
+  content:
+    oxy_label(text, "Combobox with value: ", text-align, left)
+    oxy_combobox(
+      canRemoveValue, 'true',
+      edit, "@value", 
+      editable, false, 
+      values, "value1, value2, value3",
+      labels, "value 1, value 2, value 3");
+} 
