@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title></title>
+    <topicref href="a.dita">
+        <topicref href="a1.dita">
+            <topicref href="a11.dita"/>
+            <topicref href="a12.dita"/>
+        </topicref>
+        <topicref href="a2.dita">
+            <topicref href="a21.dita"/>
+            <topicref href="a22.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="b.dita">
+        <topicref href="b1.dita">
+            <topicref href="b11.dita"/>
+            <topicref href="b12.dita"/>
+        </topicref>
+        <topicref href="b2.dita">
+            <topicref href="b21.dita"/>
+            <topicref href="b22.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="c.dita">
+        <topicref href="c1.dita">
+            <topicref href="c11.dita">
+                <topicref href="c111.dita"/>
+                <topicref href="c112.dita"/>
+            </topicref>
+            <topicref href="c12.dita"/>
+        </topicref>
+        <topicref href="c2.dita">
+            <topicref href="c21.dita"/>
+            <topicref href="c22.dita"/>
+        </topicref>
+    </topicref>
+</map>
