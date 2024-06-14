@@ -2,37 +2,37 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title></title>
-    <topicref href="a.dita">
-        <topicref href="a1.dita">
-            <topicref href="a11.dita"/>
-            <topicref href="a12.dita"/>
+    <topicref navtitle = "A" href="a.dita">
+        <topicref navtitle = "A1" href="level1/a1.dita">
+            <topicref href="/level1/level2/a11.dita"/>
+            <topicref href="/level1/level2/a12.dita"/>
         </topicref>
-        <topicref href="a2.dita">
-            <topicref href="a21.dita"/>
-            <topicref href="a22.dita"/>
-        </topicref>
-    </topicref>
-    <topicref href="b.dita">
-        <topicref href="b1.dita">
-            <topicref href="b11.dita"/>
-            <topicref href="b12.dita"/>
-        </topicref>
-        <topicref href="b2.dita">
-            <topicref href="b21.dita"/>
-            <topicref href="b22.dita"/>
+        <topicref navtitle = "A2" href="level1/a2.dita">
+            <topicref href="/level1/level2/a21.dita"/>
+            <topicref href="/level1/level2/a22.dita"/>
         </topicref>
     </topicref>
-    <topicref href="c.dita">
-        <topicref href="c1.dita">
-            <topicref href="c11.dita">
-                <topicref href="c111.dita"/>
-                <topicref href="c112.dita"/>
+    <topicref navtitle = "B" href="b.dita">
+        <topicref navtitle = "B1" href="level1/b1.dita">
+            <topicref href="/level1/level2/b11.dita"/>
+            <topicref href="/level1/level2/b12.dita"/>
+        </topicref>
+        <topicref navtitle = "B2" href="level1/b2.dita">
+            <topicref href="/level1/level2/b21.dita"/>
+            <topicref href="/level1/level2/b22.dita"/>
+        </topicref>
+    </topicref>
+    <topicref navtitle = "C" href="c.dita">
+        <topicref navtitle = "C1" href="level1/c1.dita">
+            <topicref href="/level1/level2/c11.dita">
+                <topicref href="/level1/level2/level3/c111.dita"/>
+                <topicref href="/level1/level2/level3/c112.dita"/>
             </topicref>
-            <topicref href="c12.dita"/>
+            <topicref href="/level1/level2/c12.dita"/>
         </topicref>
-        <topicref href="c2.dita">
-            <topicref href="c21.dita"/>
-            <topicref href="c22.dita"/>
+        <topicref navtitle = "C2" href="level1/c2.dita">
+            <topicref href="/level1/level2/c21.dita"/>
+            <topicref href="/level1/level2/c22.dita"/>
         </topicref>
     </topicref>
 </map>
