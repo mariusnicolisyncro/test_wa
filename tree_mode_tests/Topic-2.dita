@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_u4y_hg1_1cc">
-    <title></title>
+<topic id="a">
+    <title>Titlul topicului de teste pentru highlights</title>
     <body>
-        <p></p>
+        <p>Acesta este <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>un topic
+            simplu<?oxy_custom_end?> in care voi incerca sa fac
+            <?oxy_comment_start author="mariusnicolisyncro" timestamp="20240710T145925+0300" comment="comment 1"?>teste<?oxy_comment_end?>
+            pentru
+            <?oxy_comment_start author="mariusnicolisyncro" timestamp="20240710T145942+0300" comment="Comment 2"?>highlights<?oxy_comment_end?>.</p>
+        <p>Al doilea
+            <?oxy_custom_start type="oxy_content_highlight" color="0,128,255"?>paragraf<?oxy_custom_end?>
+            al acestui topic.</p>
     </body>
 </topic>
