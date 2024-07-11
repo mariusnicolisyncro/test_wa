@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="a">
-    <title>Topic de teste pentru highlights</title>
+    <title>Titlul topicului de
+        <?oxy_custom_start type="oxy_content_highlight" color="0,128,255"?>teste<?oxy_custom_end?>
+        pentru highlights</title>
     <body>
-        <p>Aici vom incerca sa testam ce se intampla cand punem highlights</p>
-        <p>Dar si ce se intampla cand punem comments.</p>
+        <p>Acesta este un
+            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>topic<?oxy_custom_end?>
+            simplu in care voi incerca sa fac teste pentru highlights.</p>
+        <p>Al doilea paragraf al acestui topic.</p>
     </body>
 </topic>
