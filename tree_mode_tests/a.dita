@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="a">
-    <title>Titlul topicului de teste pentru highlights</title>
+    <title>Euro 2024</title>
     <body>
-        <p>Acesta est<?oxy_custom_start type="oxy_content_highlight" color="100,255,0"?>e un topic
-            simplu in care voi incerca sa fac tes<?oxy_custom_end?>te pentru highlights.</p>
-        <p>Al doilea paragraf al acestui topic.</p>
+        <p>Gazda turneului a fost Germania. Castigatoarea a fost Spania care a invins in finala cu
+            2-1 echipa Angliei.</p>
+        <p>Romania a fost in grupa cu:<ul id="ul_ic2_wpz_bcc">
+                <li>Ucraina (scor 3-0)</li>
+                <li>Belgia (scor 0-2)</li>
+                <li>Slovacia (scor 1-1)</li>
+            </ul></p>
+        <p>Romania a terminat pe primul loc si in optimile de finala a fost invinsa cu 3-0 de catre
+            Olanda.</p>
     </body>
 </topic>
