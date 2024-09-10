@@ -1,0 +1,1 @@
+- sa vedem cum trebuie sa arate encodarea fisierelor din URL
