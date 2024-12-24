@@ -3,20 +3,12 @@
 <map>
   <title>ditamapul</title>
   <topicref href="topic1.dita">
-  	<topicref href="topic2.dita">
-      <topicref href="topic3.dita">
-      </topicref>
-    </topicref>
     <topicref href="topic2.dita">
-      <topicref href="topic3.dita">
-      </topicref>
+      <topicref href="topic3.dita"/>
+      <topicref href="topic3.dita"/>
     </topicref>
   </topicref>
   <topicref href="topic1.dita">
-  	<topicref href="topic2.dita"/>
-    <topicref href="topic2.dita">
-      <topicref href="topic3.dita"/>
-      <topicref href="topic3.dita"/>
-    </topicref>
   </topicref>
+
 </map>
