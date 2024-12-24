@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>ditamapul</title>
-  	<topicref href="topic2.dita"/>
+  	<topicref href="topic1.dita"/>
     <topicref href="topic1.dita">
       	<topicref href="topic2.dita"/>
         <topicref href="topic2.dita">
