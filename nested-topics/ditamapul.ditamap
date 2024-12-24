@@ -6,5 +6,6 @@
         <topicref href="topic2.dita">
             <topicref href="topic3.dita"/>
         </topicref>
+      	<topicref href="topic2.dita"/>
     </topicref>
 </map>
