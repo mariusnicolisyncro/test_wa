@@ -5,29 +5,36 @@
     <body>
         <p>Web Author urmăreșre respectarea criteriilor internaționale din punct de vedere al
             accesibilității.</p>
-        <p>Principalele standarde internaționale luate în considerare de aplicații sunt: WCAG,
-            Section 508, EN 301 549.</p>
-        <p><xref href="https://www.access-board.gov/ict/" format="html" scope="external"><b>Section
-                    508</b></xref> este o legislație din <b>SUA</b>, care obligă agențiile
-            guvernamentale federale să se asigure că tehnologiile lor electronice și informaționale
-            sunt accesibile persoanelor cu dizabilități.</p>
-        <p><xref
-                href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf"
-                format="pdf" scope="external"><b>EN 301 549</b></xref> este un standard european
-            care reglementează accesibilitatea tehnologiilor informaționale și comunicaționale
-            (ICT). Este utilizat în Uniunea Europeană pentru a ghida achizițiile publice și pentru a
-            respecta <xref
-                href="https://employment-social-affairs.ec.europa.eu/policies-and-activities/social-protection-social-inclusion/persons-disabilities/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en"
-                format="html" scope="external"><b>European Accessibility Act</b></xref>.</p>
-        <p><xref href="https://www.wcag.com/resource/what-is-wcag/" format="html" scope="external"
-                    ><b>Web Content Accessibility Guidelines (WCAG)</b></xref> sunt cele mai
-            utilizate standarde internaționale pentru accesibilitate web.</p>
-        <p><b>Section 508</b> integrează <b>WCAG</b> ca fundament tehnic. Adaugă cerințe contextuale
-            legate de aplicabilitatea accesibilității în sectorul guvernamental.</p>
-        <p>Aplicația Web Author evaluează accesibilitatea din punct de vedere WCAG dar si al
-            cerințelor suplimentare ale <b>Section 508</b>. Documentul de analiză a accesibilității
-            prezintă mai întâi conformitatea cu criteriile WCAG și apoi cu cele suplimentare
-            specifice Section 508.</p>
+        <section id="section_lfw_b5d_d2c">
+            <title>Standarde internațiobale de accesibilitate</title>
+            <p>Principalele standarde internaționale luate în considerare de către aplicații sunt:
+                WCAG, Section 508, EN 301 549.</p>
+            <ul id="ul_vzw_d5d_d2c">
+                <li><xref href="https://www.access-board.gov/ict/" format="html" scope="external"
+                            ><b>Section 508</b></xref> este o legislație din <b>SUA</b>, care obligă
+                    agențiile guvernamentale federale să se asigure că tehnologiile lor electronice
+                    și informaționale sunt accesibile persoanelor cu dizabilități.</li>
+                <li><xref
+                        href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf"
+                        format="pdf" scope="external"><b>EN 301 549</b></xref> este un standard
+                        <b>european</b> care reglementează accesibilitatea tehnologiilor
+                    informaționale și comunicaționale (ICT). Este utilizat în Uniunea Europeană
+                    pentru a ghida achizițiile publice și pentru a respecta <xref
+                        href="https://employment-social-affairs.ec.europa.eu/policies-and-activities/social-protection-social-inclusion/persons-disabilities/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en"
+                        format="html" scope="external"><b>European Accessibility
+                    Act</b></xref>.</li>
+                <li><xref href="https://www.wcag.com/resource/what-is-wcag/" format="html"
+                        scope="external"><b>Web Content Accessibility Guidelines (WCAG)</b></xref>
+                    sunt cele mai utilizate standarde <b>internaționale</b> pentru accesibilitate
+                    web.</li>
+            </ul>
+            <p><b>Section 508</b> integrează <b>WCAG</b> ca fundament tehnic. Adaugă cerințe
+                contextuale legate de aplicabilitatea accesibilității în sectorul guvernamental.</p>
+            <p><i>Web Author evaluează accesibilitatea din punct de vedere WCAG dar si al cerințelor
+                    suplimentare ale <b>Section 508</b>. Documentul de analiză a accesibilității
+                    prezintă mai întâi conformitatea cu criteriile WCAG și apoi cu cele suplimentare
+                    specifice Section 508.</i></p>
+        </section>
         <p>VPAT vs ACR</p>
         <p>VPAT (Voluntary Product Accessibility Template) este un <b>șablon standardizat</b>
             utilizat pentru documentarea conformității unui produs (de exemplu, software, hardware,
@@ -56,7 +63,7 @@
                 scope="external"><b>Success Criterion 2.4.4 Link Purpose (In Context)</b></xref> (sa
             ne asiguram ca scopul linkului poate fi determinat din textul linkului sau din contextul
             in care se afla linkul).</p>
-        <p>Criteriile de succes au mai multe caracteristic.</p>
+        <p>Criteriile de succes au mai multe caracteristici.</p>
         <p>
             <ul id="ul_czm_bnd_d2c">
                 <li>Pot fi grupate din punct de vedere functional în 4 categorii mari (Perceivable,
@@ -76,7 +83,71 @@
                             site-urilor.</li>
                         <li><b>AAA (nivel avansat):</b> Este cel mai înalt nivel, dar greu de atins
                             pentru toate tipurile de conținut.</li>
-                    </ol></li>
+                    </ol>
+              De exemplu criteriul prezentat anterior se încadrează la nivelul AA.
+              </li>
+            </ul>
+        </p>
+        <p>Versiunile de WCAG</p>
+        <ul id="ul_lv2_1pd_d2c">
+            <li><b>WCAG 1.0 (1999):</b> Prima versiune, acum depășită.</li>
+            <li><b><xref href="https://www.w3.org/TR/WCAG21/" format="html" scope="external">WCAG
+                        2.0 (2008)</xref>:</b> A introdus principiile fundamentale și a fost un
+                punct de referință major.</li>
+            <li><b><xref href="https://www.w3.org/TR/WCAG21/" format="html" scope="external">WCAG
+                        2.1 (2018)</xref>:</b> Extensie a WCAG 2.0, cu cerințe suplimentare
+                    pentru:<ul id="ul_mv2_1pd_d2c">
+                    <li>Persoane cu dizabilități cognitive.</li>
+                    <li>Utilizatori de dispozitive mobile.</li>
+                </ul></li>
+            <li><b><xref href="https://www.w3.org/TR/WCAG22/" format="html" scope="external">WCAG
+                        2.2</xref> (în curs de finalizare în 2024):</b> Adaugă cerințe noi pentru a
+                extinde accesibilitatea.</li>
+        </ul>
+        <p>Toate versiunile sunt retrocompatibile: un site conform WCAG 2.1 este și conform WCAG
+            2.0.</p>
+        <p>Mai detaliat despre modul în care au evoluat versiunile active avem aici: <xref
+                href="https://www.w3.org/WAI/standards-guidelines/wcag/#versions" format="html"
+                scope="external">WCAG 2 Overview</xref>.</p>
+        <p>În general, de la o versiune la alta s-au adăugat criterii de succes și s-a păstrat
+            consecvența în numerotare (criteriile au un număr asociat în cadrul categoriei și astfel
+            cele noi au primit numere în continuare. din acest motiv nu a fost posibil să se
+            respecte întru totul și ordinea crescătoare pe niveluri de conformitate - in general
+            criteriile de nivel A sunt numerotate la inceput, insa au fost situatii cand la o
+            versiune noua de WCAG s-au adaugat critrii de nivel A la o categorie care avea deja
+            criterii de nivel AA si atunci cele noi de nivel A s-au numerotat in continuare, dupa
+            cele de nivel A).</p>
+        <p>La fiecare dintre versiunile de WCAG sunt descrise detaliat criteriile (atat cele
+            moștenite cât și cele noi - la cela moștenite, din ce am văzut, sunt aceleași informații
+            ca la versiunea anterioara, dar nu sunt sigur că acest lucru este peste tot
+            valabil).</p>
+        <p>La fiecare criteriu avem prezentarea generală a sa dar și secțiuni precum Understanding
+            (cu prezentare detaliată a criteriului, scop, exemple etc) și How to meet (unde sunt
+            prezentate tehnici de testare a criteriului).</p>
+        <p/>
+        <p>Despre VPAT-ul nostru:</p>
+        <p>
+            <ul id="ul_bzt_lsd_d2c">
+                <li>Trebuie urmărit periodic (cel puțin înainte de release) linkul: <xref
+                        href="https://www.itic.org/policy/accessibility/vpat" format="html"
+                        scope="external">https://www.itic.org/policy/accessibility/vpat</xref>. Dacă
+                    găsim că au apărut versiuni noi de VPAT trebuie să analizăm pentru a
+                    actualiza.</li>
+                <li>Folosim Screen reader NVDA pentru tesrate manuala. Speech Viewer e foarte
+                    util.</li>
+                <li>Folosim pluginul de browser Axe pentru testare automată. Acesta identifică
+                    probleme de neconformitate indicând criteriul încălcat dar și modalități de
+                    remediere (se rulează folosind dev tools)</li>
+                <li>Avem teste automate în proiectul WA, aici: ro.sync.jstest.a11y</li>
+                <li>Documentul nostru ACR, public pe site, se află aici: <xref
+                        href="https://www.oxygenxml.com/doc/versions/27.0.0/ug-webauthor/topics/wa-vpat.html"
+                        format="html" scope="external"
+                        >https://www.oxygenxml.com/doc/versions/27.0.0/ug-webauthor/topics/wa-vpat.html</xref></li>
+                <li>Există la exhipa de Author o procedură de aplicare VPAT cu majoritatea pașilor
+                    aplicabili la WA: <xref
+                        href="https://wiki.sync.ro/topics/sdlc/projects/exm/release/sop_actualizare_vpat_oxygen_standalone.html?hl=vpat"
+                        format="html" scope="external"
+                        >https://wiki.sync.ro/topics/sdlc/projects/exm/release/sop_actualizare_vpat_oxygen_standalone.html?hl=vpat</xref></li>
             </ul>
         </p>
     </body>
