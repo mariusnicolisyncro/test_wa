@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_uzd_3hd_d2c">
-    <title></title>
+    <title>Web Author - VPAT</title>
     <body>
-        <p></p>
+        <p>Web Author urmăreșre respectarea criteriilor internaționale din punct de vedere al
+            accesibilității.</p>
+        <p>Principalele standarde internaționale luate în considerare de aplicații sunt: WCAG,
+            Section 508, EN 301 549.</p>
+        <p><xref href="https://www.access-board.gov/ict/" format="html" scope="external"><b>Section
+                    508</b></xref> este o legislație din <b>SUA</b>, care obligă agențiile
+            guvernamentale federale să se asigure că tehnologiile lor electronice și informaționale
+            sunt accesibile persoanelor cu dizabilități.</p>
+        <p><xref
+                href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf"
+                format="pdf" scope="external"><b>EN 301 549</b></xref> este un standard european
+            care reglementează accesibilitatea tehnologiilor informaționale și comunicaționale
+            (ICT). Este utilizat în Uniunea Europeană pentru a ghida achizițiile publice și pentru a
+            respecta <xref
+                href="https://employment-social-affairs.ec.europa.eu/policies-and-activities/social-protection-social-inclusion/persons-disabilities/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en"
+                format="html" scope="external"><b>European Accessibility Act</b></xref>.</p>
+        <p><xref href="https://www.wcag.com/resource/what-is-wcag/" format="html" scope="external"
+                    ><b>Web Content Accessibility Guidelines (WCAG)</b></xref> sunt cele mai
+            utilizate standarde internaționale pentru accesibilitate web.</p>
+        <p><b>Section 508</b> integrează <b>WCAG</b> ca fundament tehnic. Adaugă cerințe contextuale
+            legate de aplicabilitatea accesibilității în sectorul guvernamental.</p>
+        <p>Aplicația Web Author evaluează accesibilitatea din punct de vedere WCAG dar si al
+            cerințelor suplimentare ale <b>Section 508</b>. Documentul de analiză a accesibilității
+            prezintă mai întâi conformitatea cu criteriile WCAG și apoi cu cele suplimentare
+            specifice Section 508.</p>
+        <p>VPAT vs ACR</p>
+        <p>VPAT (Voluntary Product Accessibility Template) este un <b>șablon standardizat</b>
+            utilizat pentru documentarea conformității unui produs (de exemplu, software, hardware,
+            site-uri web) cu standardele de accesibilitate. Este un <b>instrument de
+                autoevaluare</b> pe care producătorii îl completează pentru a detalia cât de bine
+            produsul lor respectă cerințele accesibilității.</p>
+        <p>ACR (Accessibility Conformance Report) este <b>rezultatul final</b> al completării unui
+            VPAT. (un <b>document public</b> livrat către clienți, parteneri sau autorități pentru a
+            demonstra conformitatea produsului cu standardele de accesibilitate; este bazat pe un
+            VPAT completat)</p>
+        <p>Există template-uri VPAT in funcție de nevoile de conformitate ale producătorului (WCAG,
+            Section 508, EN 301 549). Aceste templateuri (și diverse versiuni ale lor) sunt descrise
+            aici: <xref href="https://www.itic.org/policy/accessibility/vpat" format="html"
+                scope="external">https://www.itic.org/policy/accessibility/vpat</xref></p>
+        <p>ACR-ul nostru este bazat pe WCAG și are în plus elementele suplimentare necesare pentru
+            conformitatea cu Section 508.</p>
+        <p>Despre WCAG</p>
+        <p><b>Web Content Accessibility Guidelines (WCAG)</b> este un set de standarde elaborate de
+                <b>World Wide Web Consortium (W3C)</b>. Acestea stabilesc cerințele pentru a face
+            conținutul web accesibil tuturor, inclusiv persoanelor cu diverse dizabilități.</p>
+        <p>Unitatea principală este "criteriul de succes" (success criteria). Acesta reprezintă o
+                <b>cerință testabilă</b> care trebuie îndeplinită pentru ca un anumit aspect al
+            accesibilității unui produs digital (site web, aplicație) să fie considerat conform cu
+            standardele WCAG. De exemplu: <xref
+                href="https://www.w3.org/TR/WCAG22/#link-purpose-in-context" format="html"
+                scope="external"><b>Success Criterion 2.4.4 Link Purpose (In Context)</b></xref> (sa
+            ne asiguram ca scopul linkului poate fi determinat din textul linkului sau din contextul
+            in care se afla linkul).</p>
+        <p>Criteriile de succes au mai multe caracteristic.</p>
+        <p>
+            <ul id="ul_czm_bnd_d2c">
+                <li>Pot fi grupate din punct de vedere functional în 4 categorii mari (Perceivable,
+                    Operable, Understandable, Robust - POUR). In cadrul acestor categorii exista
+                    subcategorii. De exemplu, pentru Perceivable avem subcategoriile: Keyboard
+                    accessible, Enough time, Seizures and Physical Reactions, Navigable, Input
+                    modalities. Criteriul exemplificat anterior, <xref
+                        href="https://www.w3.org/TR/WCAG22/#link-purpose-in-context" format="html"
+                        scope="external"><b>Success Criterion 2.4.4 Link Purpose (In
+                        Context)</b></xref> face parte din categoria Operable, subcategoria
+                    Navigable.</li>
+                <li>Sunt grupate în funcție de nivelul de conformitate pe trei niveluri, astfel: <ol
+                        id="ol_fmn_g4d_d2c">
+                        <li><b>A (nivel de bază):</b> Necesită cerințe fundamentale pentru
+                            accesibilitate.</li>
+                        <li><b>AA (nivel mediu):</b> Nivel recomandat pentru majoritatea
+                            site-urilor.</li>
+                        <li><b>AAA (nivel avansat):</b> Este cel mai înalt nivel, dar greu de atins
+                            pentru toate tipurile de conținut.</li>
+                    </ol></li>
+            </ul>
+        </p>
     </body>
 </topic>
