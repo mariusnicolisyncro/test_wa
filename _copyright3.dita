@@ -4,9 +4,7 @@
     <title>Copyright334546</title>
     <shortdesc>Legal-related information.</shortdesc>
     <body>
-        <p>Most of the
-            <?oxy_comment_start author="Marius Nicoli" timestamp="20250213T090705+0000" comment="A" id="cft_1ry_32c"?><?oxy_comment_start author="Marius Nicoli" timestamp="20250213T090710+0000" parentID="cft_1ry_32c" comment="B" id="ltg_bry_32c" mid="1"?><?oxy_comment_start author="Marius Nicoli" timestamp="20250213T090719+0000" parentID="ltg_bry_32c" comment="D" mid="3"?><?oxy_comment_start author="Marius Nicoli" timestamp="20250213T090714+0000" parentID="cft_1ry_32c" comment="C" mid="2"?>information<?oxy_comment_end mid="2"?><?oxy_comment_end mid="3"?><?oxy_comment_end mid="1"?><?oxy_comment_end?>
-            was taken from <xref href="http://www.wikipedia.com" format="html" scope="external"
-                >Wikipedia</xref>, the free encyclopedia.</p>
+        <p>Most of the information was taken from <xref href="http://www.wikipedia.com"
+                format="html" scope="external">Wikipedia</xref>, the free encyclopedia.</p>
     </body>
 </topic>
