@@ -4,8 +4,10 @@
     <title>Copyright334546</title>
     <shortdesc>Legal-related information.</shortdesc>
     <body>
-        <p>Most of the information was taken from <xref href="http://www.wikipedia.com"
-                format="html" scope="external">Wikipedia</xref>, the free
-            <?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221510+0200" comment="A" id="etj_t1c_j2c"?><?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221515+0200" parentID="etj_t1c_j2c" comment="B" id="vbw_t1c_j2c" mid="1"?><?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221523+0200" parentID="vbw_t1c_j2c" comment="D" mid="3"?><?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221519+0200" parentID="etj_t1c_j2c" comment="C" mid="2"?>encyclopedia<?oxy_comment_end mid="2"?><?oxy_comment_end mid="3"?><?oxy_comment_end mid="1"?><?oxy_comment_end?>.</p>
+        <p>Most of the
+            <?oxy_comment_start author="mariusnicolisyncro" timestamp="20250217T112207+0200" comment="AA" id="ztf_hvb_k2c"?><?oxy_comment_start author="mariusnicolisyncro" timestamp="20250217T112212+0200" parentID="ztf_hvb_k2c" comment="BB" mid="1"?>information<?oxy_comment_end mid="1"?><?oxy_comment_end?>
+            was taken from <xref href="http://www.wikipedia.com" format="html" scope="external"
+                >Wikipedia</xref>, the free
+            <?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221510+0200" comment="A" id="etj_t1c_j2c"?><?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221515+0200" parentID="etj_t1c_j2c" comment="B" id="vbw_t1c_j2c" mid="3"?>encyclopedia<?oxy_comment_end mid="3"?><?oxy_comment_end?>.</p>
     </body>
 </topic>
