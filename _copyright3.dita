@@ -4,9 +4,8 @@
     <title>Copyright334546</title>
     <shortdesc>Legal-related information.</shortdesc>
     <body>
-        <p><?oxy_comment_start author="Marius Nicoli" timestamp="20250219T100434+0000" comment="AA" id="tgz_z4q_k2c" flag="done"?><?oxy_comment_start author="Marius Nicoli" timestamp="20250219T100443+0000" parentID="tgz_z4q_k2c" comment="BB" flag="done" mid="1"?>Most<?oxy_comment_end mid="1"?><?oxy_comment_end?>
-            of the information was taken from <xref href="http://www.wikipedia.com" format="html"
-                scope="external">Wikipedia</xref>, the free
-            <?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221510+0200" comment="A" id="etj_t1c_j2c" flag="done"?><?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221515+0200" parentID="etj_t1c_j2c" comment="B" id="vbw_t1c_j2c" flag="done" mid="3"?>encyclopedia<?oxy_comment_end mid="3"?><?oxy_comment_end?>.</p>
+        <p>Most of the information was taken from <xref href="http://www.wikipedia.com"
+                format="html" scope="external">Wikipedia</xref>, the free
+            <?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221510+0200" comment="A" id="etj_t1c_j2c" flag="done"?><?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221515+0200" parentID="etj_t1c_j2c" comment="B" id="vbw_t1c_j2c" flag="done" mid="1"?>encyclopedia<?oxy_comment_end mid="1"?><?oxy_comment_end?>.</p>
     </body>
 </topic>
