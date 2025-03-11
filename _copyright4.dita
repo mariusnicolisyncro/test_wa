@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="copyright">
+    <title>Copyright334546</title>
+    <shortdesc>Legal-related information.</shortdesc>
+    <body>
+        <p><?oxy_comment_start author="mariusnicolisyncro" timestamp="20250311T101626+0200" comment="a" id="qf3_2mf_q2c"?><?oxy_comment_start author="mariusnicolisyncro" timestamp="20250311T101628+0200" parentID="qf3_2mf_q2c" comment="a" mid="1"?>Most<?oxy_comment_end mid="1"?><?oxy_comment_end?>
+            of the information waas taken from <xref href="http://www.wikipedia.com" format="html"
+                scope="external">Wikipedia</xref>, the free
+            <?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221510+0200" comment="A" id="etj_t1c_j2c" flag="done"?><?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221515+0200" parentID="etj_t1c_j2c" comment="B" id="vbw_t1c_j2c" flag="done" mid="3"?>encyclopedia<?oxy_comment_end mid="3"?><?oxy_comment_end?>.</p>
+        <p>Most of the information was taken from <xref href="http://www.wikipedia.com"
+                format="html" scope="external">Wikipedia</xref>, the free encyclopedia.</p>
+    </body>
+</topic>
