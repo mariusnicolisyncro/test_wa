@@ -10,7 +10,7 @@
             <?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221510+0200" comment="A" id="etj_t1c_j2c" flag="done"?><?oxy_comment_start author="mariusnicolisyncro" timestamp="20250213T221515+0200" parentID="etj_t1c_j2c" comment="B" id="vbw_t1c_j2c" flag="done" mid="3"?>encyclopedia<?oxy_comment_end mid="3"?><?oxy_comment_end?>.</p>
         <p>Most of the information was taken from <xref href="http://www.wikipedia.com"
                 format="html" scope="external">Wikipedia</xref>, the free encyclopedia.</p>
-        <p><xref href = "#test_id">In today's fast-paced</xref> digital world, information is being generated at an unprecedented
+        <p><xref href = "#copyright/test_id">In today's fast-paced</xref> digital world, information is being generated at an unprecedented
             rate. Every second, countless bytes of data are created, processed, and stored across
             various platforms. This explosion of digital content has led to new opportunities and
             challenges for businesses, researchers, and individuals alike.</p>
