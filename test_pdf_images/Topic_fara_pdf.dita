@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_kvc_y13_yfc">
-    <title></title>
+<topic id="topic_ffq_r5b_yfc">
+    <title>titlu</title>
     <body>
-        <p></p>
+        <p><image href="test_img.pdf" id="image_v2k_s5b_yfc"/></p>
     </body>
 </topic>
