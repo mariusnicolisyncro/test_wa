@@ -4,7 +4,8 @@
     <title>title</title>
     <body>
         <p>This is the first paragraph used for testing spellchecker.</p>
-        <p>This is the second paragraph. I tried to add more content to them to have more variants
-            to verify spelling issues.</p>
+        <p>This is the second paragraph. I tried to add more <image href="file.svg"
+                id="image_ayc_wmf_zfc"/> content to them to have more variants to verify spelling
+            issues.</p>
     </body>
 </topic>
