@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_e2g_jmf_zfc">
-    <title></title>
+    <title>title</title>
     <body>
-        <p></p>
+        <p>This is the first paragraph used for testing spellchecker.</p>
+        <p>This is the second paragraph. I tried to add more content to them to have more variants
+            to verify spelling issues.</p>
     </body>
 </topic>
