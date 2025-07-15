@@ -7,6 +7,20 @@
         <p>This is the second paragraph. I tried to add more <image href="file.svg"
                 id="image_ayc_wmf_zfc"/> content to them to have more variants to verify spelling
             issues.</p>
-        <p>In <ph keyref="key_name"/> of last year.</p>
+        <p>In <ph keyref="key_name"/> of last year.
+          
+          
+          
+          <imagemap id="imagemap_dg3_24m_zfc">
+                <image id="image_gg3_24m_zfc" href="test_img.jpg"/>
+                <area>
+                    <shape/>
+                    <coords/>
+                    <xref href="https://www.google.com/" format="html" scope="external"/>
+                </area>
+            </imagemap>
+      
+      
+      </p>
     </body>
 </topic>
