@@ -12,10 +12,20 @@
           
           
           <imagemap id="imagemap_dg3_24m_zfc">
-                <image id="image_gg3_24m_zfc" href="test_img.jpg"/>
+                <image id="image_gg3_24m_zfc" href = "test_img.jpg"/>
                 <area>
-                    <shape/>
-                    <coords/>
+                    <shape>rect</shape>
+                    <coords>162, 127, 212, 177</coords>
+                    <xref href="https://www.google.com/" format="html" scope="external"/>
+                </area>
+                <area>
+                    <shape>circle</shape>
+                    <coords>27, 37, 23</coords>
+                    <xref href="https://www.google.com/" format="html" scope="external"/>
+                </area>
+                <area>
+                    <shape>poly</shape>
+                    <coords>140, 31, 180, 70, 109, 94, 108, 55, 108, 55, 100, 38</coords>
                     <xref href="https://www.google.com/" format="html" scope="external"/>
                 </area>
             </imagemap>
