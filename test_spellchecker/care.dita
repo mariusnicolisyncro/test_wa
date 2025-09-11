@@ -1,8 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_o4p_2js_pgc">
-    <title></title>
+<topic id="care">
     <body>
-        <p></p>
+        <p>
+            <table frame="none">
+                <title>Flowers</title>
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="171.0pt"/>
+                    <colspec colname="c2" colnum="2" colwidth="99.0pt"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="200px"/>
+                    <thead>
+                        <row>
+                            <entry>Flower</entry>
+                            <entry>Type</entry>
+                            <entry>Soil</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Chrysanthemum</entry>
+                            <entry>perennial</entry>
+                            <entry>well drained</entry>
+                        </row>
+                        <row>
+                            <entry>Gardenia</entry>
+                            <entry>perennial</entry>
+                            <entry>acidic</entry>
+                        </row>
+                        <row>
+                            <entry>Gerbera</entry>
+                            <entry>annual</entry>
+                            <entry>sandy, well-drained</entry>
+                        </row>
+                        <row>
+                            <entry>Iris</entry>
+                            <entry>perennial</entry>
+                            <entry>slightly acidic</entry>
+                        </row>
+                        <row>
+                            <entry>Lilac</entry>
+                            <entry>perennial</entry>
+                            <entry>alkaline</entry>
+                        </row>
+                        <row>
+                            <entry>Salvia</entry>
+                            <entry>perennial</entry>
+                            <entry>average</entry>
+                        </row>
+                        <row>
+                            <entry>Snowdrop</entry>
+                            <entry>perennial</entry>
+                            <entry>humus-rich</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
     </body>
 </topic>
