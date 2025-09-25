@@ -47,5 +47,5 @@ When you commit or save the map, all the modified topics are also saved.
       print="yes"/>
     <topicref navtitle="Panicle" href="concepts/glossaryPanicle.dita" keys="panicle" print="yes"/>
   </topichead>
-  <topicref href="topics/copyright.dita"/>
+  <topicref href="topics/copyright.dita" navtitle="a&lt;b"/>
 </map>
