@@ -9,5 +9,5 @@ When you commit or save the map, all the modified topics are also saved.
 -->
 <map>
   <title>Growing Flowers</title>
-  <topicref href="topics/copyright.dita" navtitle="a &lt;&amp;"/>
+  <topicref href="topics/copyright.dita" navtitle="a &lt;b"/>
 </map>
