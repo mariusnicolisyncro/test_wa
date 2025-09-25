@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<!--
-Example showing how a DITA map can be opened with all of the referenced topic content expanded and editable in one document. 
 
-To trigger this mode, you have to select Edit Topic Content from the DITA Map Display Mode drop-down menu.
-When editing a DITA map in this mode, the editor provides actions for both editing topic content and editing map content. 
-When you commit or save the map, all the modified topics are also saved. 
--->
 <map>
   <title>Growing Flowers</title>
   <topicref href="topics/copyright.dita" navtitle="a &lt;c"/>
