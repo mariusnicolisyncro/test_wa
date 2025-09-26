@@ -4,4 +4,9 @@
 <map>
   <title>Growing Flowers</title>
   <topicref href="topics/copyright.dita" navtitle="a &amp; &lt;c"/>
+  <topichead>
+    <topicmeta>
+      <navtitle>test</navtitle>
+    </topicmeta>
+  </topichead>
 </map>
