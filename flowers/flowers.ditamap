@@ -32,7 +32,7 @@ When you commit or save the map, all the modified topics are also saved.
     </topicref>
   </topicref>
   <?oxy_comment_start author="Mary" timestamp="20120510T115308+0300" comment="We should review the list of glossary terms. I think there are many technical terms in the documentation that need to be addressed."?>
-  <topichead navtitle="Glossary1" id="glossary">
+  <topichead navtitle="Glossary12" id="glossary">
     <topicmeta>
       <shortdesc>Definitions of the most commonly used gardening terms.</shortdesc>
     </topicmeta><?oxy_comment_end?>
